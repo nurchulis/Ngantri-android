@@ -1,0 +1,54 @@
+<svg id="hand" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196.603" height="176.919" viewBox="0 0 196.603 176.919">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3fcff"/>
+      <stop offset="1" stop-color="#a5dcff"/>
+    </linearGradient>
+    <filter id="Path_530" x="102.049" y="76.602" width="94.554" height="68.775" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_526" x="27.049" y="76.824" width="76.106" height="68.258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_528" x="69" y="17" width="69" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Path_525" data-name="Path 525" d="M41.385,68.4C25,77.506,10.145,88.1,2.906,102.356-7.821,123.472,12.732,149.99,38.689,153.1c13.985,1.676,38.557-6.372,45.918-3.11,19.69,8.723,15.5,17.515,48.074,26.1,26.772,7.06,66.634-31.832,51.021-91.977-3.307-12.742-11.009-28.079-20.062-42.607-16.077-25.8-57.783-52.311-85.7-37S57.767,59.293,41.385,68.4Z" opacity="0.759" fill="url(#linear-gradient)"/>
+  <g id="Group_46" data-name="Group 46">
+    <g id="Group_45" data-name="Group 45" transform="translate(36.049 82.824)">
+      <rect id="Rectangle_1329" data-name="Rectangle 1329" width="17" height="50" transform="translate(58)" fill="#fc7272"/>
+      <g transform="matrix(1, 0, 0, 1, -36.05, -82.82)" filter="url(#Path_530)">
+        <path id="Path_530-2" data-name="Path 530" d="M0,0,71.959-.222s4.845,9.65,4.584,26.088-3.308,24.688-3.308,24.688L0,50Z" transform="translate(111.05 82.82)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -36.05, -82.82)" filter="url(#Path_526)">
+        <path id="Path_526-2" data-name="Path 526" d="M48.316,1.745c-.123-.4-1.59-.768-2.063-.823C30.289-.934,14.646.362,10.011,1.745Q5.239,3.17,8.11,12.9q-4.834,3.534-5.084,5.6t3.654,6.185Q1.8,28.515,1.373,30.629t2.806,6.542Q-.087,42.058,0,44.523t4.646,5.718h41.12q2.582.182,2.971-1.614a19.445,19.445,0,0,1,1.1-3.482h8.262V5.833l-9.367.875A22.78,22.78,0,0,0,48.316,1.745Z" transform="translate(36.05 82.82)" fill="#ffe0c0" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_44" data-name="Group 44" transform="translate(47 9)">
+        <circle id="Ellipse_57" data-name="Ellipse 57" cx="16" cy="16" r="16" fill="#00d2ba"/>
+        <circle id="Ellipse_58" data-name="Ellipse 58" cx="13" cy="13" r="13" transform="translate(3 2.5)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_1331" data-name="Rectangle 1331" width="2" height="9" rx="1" transform="translate(62 13)" fill="#fc7272"/>
+      <rect id="Rectangle_1332" data-name="Rectangle 1332" width="2" height="6" rx="1" transform="matrix(0.259, 0.966, -0.966, 0.259, 71.796, 21.742)" fill="#fc7272"/>
+      <circle id="Ellipse_59" data-name="Ellipse 59" cx="2" cy="2" r="2" transform="translate(61 23)" fill="#fc7272"/>
+    </g>
+  </g>
+  <path id="Path_527" data-name="Path 527" d="M78,23h51l-1.491,40.764-17.354,1.218L103.119,77l-2.778-12.018H78Z"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_528)">
+    <path id="Path_528-2" data-name="Path 528" d="M78,23h51l-1.491,40.764-17.354,1.218L103.119,77l-2.778-12.018H78Z" fill="#fff"/>
+  </g>
+  <circle id="Ellipse_60" data-name="Ellipse 60" cx="3.5" cy="3.5" r="3.5" transform="translate(101 52)" fill="#ff8b9d"/>
+  <path id="Path_529" data-name="Path 529" d="M103,28h5l-.71,22H103Z" fill="#ff8b9d" fill-rule="evenodd"/>
+</svg>

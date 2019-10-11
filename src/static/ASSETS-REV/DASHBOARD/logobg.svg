@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375.431" height="310.361" viewBox="0 0 375.431 310.361">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.023" y1="0.118" x2="0.142" y2="0.531" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#04a3e7"/>
+      <stop offset="1" stop-color="#9fdffa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.023" y1="0.118" x2="0.142" y2="0.531" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#04a3e7" stop-opacity="0.675"/>
+      <stop offset="1" stop-color="#9fdffa"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_129" data-name="Group 129" transform="translate(0 -35.726)">
+    <g id="Symbol_19_1" data-name="Symbol 19 – 1">
+      <path id="Path_360" data-name="Path 360" d="M0,98.439s61.41,36.134,104.2,6.441,22.186-57.724,66.955-84.225,92.093,13.6,143.055,1.41S375-28.093,375-28.093l.431,195.619s-51.318-12.324-95.7,9.967c-35.229,17.694-60.034,70.082-94.911,76.02C106.27,266.886,0,223.064,0,223.064Z" transform="translate(0 63.82)" opacity="0.384" fill="url(#linear-gradient)"/>
+      <path id="Path_362" data-name="Path 362" d="M0,98.439s61.41,36.134,104.2,6.441,22.186-57.724,66.955-84.225,92.093,13.6,143.055,1.41S375-28.093,375-28.093V165.185s-48.157-8.986-94.379,9.785-35.29,55.9-90.512,65.3C111.556,253.643,0,195.5,0,195.5Z" transform="translate(0 103.82)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="logo2" transform="translate(151.683 180.09)">
+      <path id="Path_357" data-name="Path 357" d="M13.381,96.529H60.63c3.6-.046,4.983-3.691,2.169-9.367L45.265,50.11c-2.861-5.076-5.629-7.383-8.259-7.29-2.676-.092-5.4,2.215-8.259,7.29L11.166,87.162C8.352,92.837,9.782,96.482,13.381,96.529Z" fill="none" stroke="#fff" stroke-width="2.62"/>
+      <path id="Path_358" data-name="Path 358" d="M67.875,92.053c4.706-.046,6.552-4.8,2.861-12.274L47.8,31.423c-3.737-6.644-7.337-9.644-10.8-9.505-3.461-.138-7.06,2.861-10.8,9.505L3.276,79.779C-.415,87.254,1.43,92.007,6.137,92.053" fill="none" stroke="#fff" stroke-width="2.62"/>
+      <path id="Path_359" data-name="Path 359" d="M64.368,93.252c4.2-.046,5.814-4.245,2.584-10.889L46.557,39.451c-3.276-5.906-6.46-8.536-9.551-8.444-3.091-.092-6.275,2.538-9.6,8.444L7.06,82.363C3.784,89.007,5.445,93.206,9.6,93.252" fill="none" stroke="#fff" stroke-width="2.62"/>
+      <circle id="Ellipse_40" data-name="Ellipse 40" cx="7.06" cy="7.06" r="7.06" transform="translate(29.946 1.292)" fill="none" stroke="#fff" stroke-width="2.62"/>
+    </g>
+  </g>
+</svg>

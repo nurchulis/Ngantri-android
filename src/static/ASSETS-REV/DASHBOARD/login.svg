@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375.431" height="310.361" viewBox="0 0 375.431 310.361">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.023" y1="0.118" x2="0.142" y2="0.531" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#04a3e7"/>
+      <stop offset="1" stop-color="#9fdffa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.023" y1="0.118" x2="0.142" y2="0.531" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#04a3e7" stop-opacity="0.675"/>
+      <stop offset="1" stop-color="#9fdffa"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_19_1" data-name="Symbol 19 – 1" transform="translate(0 -35.726)">
+    <path id="Path_360" data-name="Path 360" d="M0,98.439s61.41,36.134,104.2,6.441,22.186-57.724,66.955-84.225,92.093,13.6,143.055,1.41S375-28.093,375-28.093l.431,195.619s-51.318-12.324-95.7,9.967c-35.229,17.694-60.034,70.082-94.911,76.02C106.27,266.886,0,223.064,0,223.064Z" transform="translate(0 63.82)" opacity="0.384" fill="url(#linear-gradient)"/>
+    <path id="Path_362" data-name="Path 362" d="M0,98.439s61.41,36.134,104.2,6.441,22.186-57.724,66.955-84.225,92.093,13.6,143.055,1.41S375-28.093,375-28.093V165.185s-48.157-8.986-94.379,9.785-35.29,55.9-90.512,65.3C111.556,253.643,0,195.5,0,195.5Z" transform="translate(0 103.82)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
